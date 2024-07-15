@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Usopked&show_icons=true&theme=radical)
 <!--
 **Usopked/Usopked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
