@@ -12,6 +12,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Usopked&layout=compact)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=usopked16496)](https://velog.io/@usopked16496/)
 
 <!--
 **Usopked/Usopked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
