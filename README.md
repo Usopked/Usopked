@@ -4,6 +4,8 @@
 
 <div align="center"> <img src="https://img.shields.io/badge/react-FCC624?style=for-the-badge&logo=react&logoColor=white"/>&nbsp <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp </div> 
 <br><br>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={wave0827})](https://solved.ac/{wave0827})
 <h3 align="center">📫 Contact 📫</h3> 
 <br>
 
