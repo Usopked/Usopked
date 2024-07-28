@@ -6,7 +6,7 @@
 <br><br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{wave0827})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wave0827)](https://solved.ac/wave0827)
 
 <h3 align="center">📫 Contact 📫</h3> 
 <br>
