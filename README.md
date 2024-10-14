@@ -42,6 +42,7 @@
 </html>
 
 <h2 align="center">Profile Links</h2>
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wave0827)](https://solved.ac/wave0827)  
 [![Velog's GitHub Stats](https://velog-readme-stats.vercel.app/api?name=usopked16496)](https://velog.io/@usopked16496/)  
 
@@ -58,12 +59,10 @@
   - ADSP
 
 ### 📕 Project  
-- **프로젝트 1:** [프로젝트 설명]  
-- **프로젝트 2:** [프로젝트 설명]  
+  - 
 
 ### 🏆 Awards
-- **수상 1:** [내용]  
-- **수상 2:** [내용]  
+  -
 
 ### 기타 
 - ❄️24.05.07 ~ 25.11.06 군복무
