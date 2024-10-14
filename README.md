@@ -1,6 +1,15 @@
-<div align="left"><h1>📚 STACKS</h1></div>
+<div align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 10px;">
+  <h1 style="color: #00ff9d; font-family: 'Courier New', monospace;">
+    <span style="color: #ffffff;">{</span> Usopked <span style="color: #ffffff;">}</span>
+  </h1>
+  <p style="color: #c9c9c9; font-family: 'Courier New', monospace;">
+    < <span style="color: #00afff;">Coding with `Galaxy S21`</span> />
+  </p>
+</div>
 
-  <h2 align="left">배운 것들</h2>
+<div><h1>📚 Techs</h1></div>
+
+  <h2>Been studied</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -14,7 +23,7 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   </div>
 
-  <h2 align="center">배울 것들</h2>
+  <h2 align="center">Be learning</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
