@@ -9,7 +9,7 @@
 
 <div><h1>📚 Techs</h1></div>
 
-  <h2>Been studied</h2>
+  <h2 align="center">Been studied</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,9 +46,8 @@
 
 ---
 
-## 자기소개 양식  
-- **이름:** [이름 입력]  
-- **이메일:** uusopked16496@gmail.com
+## Bio  
+- **[이메일](usopked16496@gmail.com)**
 - **소속:** [대학/기업/단체 등]  
 - **전공:** [전공 또는 직무]  
 - **보유 자격증:**  
