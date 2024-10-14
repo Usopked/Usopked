@@ -46,8 +46,6 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wave0827)](https://solved.ac/wave0827)  
 [![Velog's GitHub Stats](https://velog-readme-stats.vercel.app/api?name=usopked16496)](https://velog.io/@usopked16496/)  
 
----
-
 
 <h2 align="center">📕 Project</h2> 
   - 
