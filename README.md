@@ -48,15 +48,6 @@
 
 ---
 
-<h2 align="center">Bio</h2>
-
-- **✉️ E-mail : [usopked16496](usopked16496@gmail.com)**
-- **🎓 Affil :** 아주대학교(2022~)
-- **🧢 Org :**
-  - MENSA/kor
-- **🪪 Cert :**  
-  - SQLD
-  - ADSP
 
 ### 📕 Project  
   - 
