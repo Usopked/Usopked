@@ -7,7 +7,8 @@
   </p>
 </div>
 
-<div><h1>📚 Techs</h1></div>
+
+<div align="center"><h1>📚 Techs</h1></div>
 
   <h2 align="center">Been studied</h2>
   <div align="center">
@@ -40,27 +41,31 @@
 </body>
 </html>
 
-## Profile Links  
+<h2 align="center">Profile Links</h2>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wave0827)](https://solved.ac/wave0827)  
 [![Velog's GitHub Stats](https://velog-readme-stats.vercel.app/api?name=usopked16496)](https://velog.io/@usopked16496/)  
 
 ---
 
-## Bio  
-- **[이메일](usopked16496@gmail.com)**
-- **소속:** [대학/기업/단체 등]  
-- **전공:** [전공 또는 직무]  
-- **보유 자격증:**  
-  - 자격증 1  
-  - 자격증 2  
+<h2 align="center">Bio</h2>
 
-### 프로젝트 경험  
+- **✉️e-mail : [usopked16496](usopked16496@gmail.com)**
+- **🎓소속:** 아주대학교(2022~)
+- **🧢동아리 & 단체:**
+  - MENSA/kor
+- **🪪Certi:**  
+  - SQLD
+  - ADSP
+
+### 📕 Project  
 - **프로젝트 1:** [프로젝트 설명]  
 - **프로젝트 2:** [프로젝트 설명]  
 
-### 수상 내역  
+### 🏆 Awards
 - **수상 1:** [내용]  
 - **수상 2:** [내용]  
 
-### 기타  
-- [취미나 자기소개 마무리 멘트]
+### 기타 
+- ❄️24.05.07 ~ 25.11.06 군복무
+- 🙇 군대가서 맨날 열공중
+- 😃 새로운 친구는 언제나 환영해요
