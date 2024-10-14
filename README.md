@@ -49,12 +49,12 @@
 ---
 
 
-### 📕 Project  
+<h2 align="center">📕 Project</h2> 
   - 
 
-### 🏆 Awards
+<h2 align="center">🏆 Awards</h2> 
   -
 
-### 기타 
+<h2 align="center">📃 Log</h2>
 - 🙇 군대가서 맨날 열공중
 - 😃 새로운 친구는 언제나 환영해요
