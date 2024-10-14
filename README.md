@@ -50,11 +50,11 @@
 
 <h2 align="center">Bio</h2>
 
-- **✉️e-mail : [usopked16496](usopked16496@gmail.com)**
-- **🎓소속:** 아주대학교(2022~)
-- **🧢동아리 & 단체:**
+- **✉️ E-mail : [usopked16496](usopked16496@gmail.com)**
+- **🎓 Affil :** 아주대학교(2022~)
+- **🧢 Org :**
   - MENSA/kor
-- **🪪Certi:**  
+- **🪪 Cert :**  
   - SQLD
   - ADSP
 
