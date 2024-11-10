@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text={%20Usopked%20}&desc=Programming%20with%20Galaxy%20S21&fontAlignY=28&fontAlign=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text={%20Usopked%20}&desc=Programming%20with%20Galaxy%20S21&fontAlignY=35&fontAlign=50">
 
 
 <div align="center"><h1>📚 Techs</h1></div>
