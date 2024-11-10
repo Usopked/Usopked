@@ -1,11 +1,4 @@
-<div align="center" style="background-color:#1e1e1e; padding: 20px; border-radius: 10px;">
-  <h1 style="color: #00ff9d; font-family: 'Courier New', monospace;">
-    <span style="color: #ffffff;">{</span> Usopked <span style="color: #ffffff;">}</span>
-  </h1>
-  <p style="color: #c9c9c9; font-family: 'Courier New', monospace;">
-    < <span style="color: #00afff;">Coding with `Galaxy S21`</span> />
-  </p>
-</div>
+https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text={%20Usopked%20}&desc=Programming%20with%20Galaxy%20S21&fontAlignY=28&fontAlign=50
 
 
 <div align="center"><h1>📚 Techs</h1></div>
