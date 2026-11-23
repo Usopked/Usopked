@@ -2,11 +2,16 @@
 
 <h2 align="center">About Me</h2> 
 
- - 군대에서 조금씩 공부하고 있는 개발 지망생입니다!<br> 아직 이렇다할 스펙은 없지만 주로 ML쪽을 공부하고 있습니다.<br> 기타 알고리즘, 전공지식, 웹 및 앱 개발(with React) 등을 망라하며 공부하고 있습니다.<br> 맞팔은 언제나 환영입니다!!
+ - I am currently learning about machine learning.
+ - My goal is to earn the ADP and CTA certifications, participate in data analysis competitions, and eventually build a career as a financial analyst.
+ - I also hope to become someone who can help others live proactively and pursue their goals with confidence.(My absolute dream)
 
  
 <h2 align="center">Certifications</h2> 
 
 - SQLD(24.09)
 - ADSP(24.10)
-- COS Pro 1급(25.06)
+- COS Pro_1(25.06)
+- ADP_필기(25.08)
+- 육상무선통신사(26.01)
+- 컴퓨터활용능력_2(26.02)
