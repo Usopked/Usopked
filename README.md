@@ -5,6 +5,7 @@
  - I am currently learning about machine learning.
  - My goal is to earn the ADP and CTA certifications, participate in data analysis competitions, and eventually build a career as a financial analyst.
  - I also hope to become someone who can help others live proactively and pursue their goals with confidence.(My absolute dream)
+ - I don't like creating works depend on AI.
 
  
 <h2 align="center">Certifications</h2> 
